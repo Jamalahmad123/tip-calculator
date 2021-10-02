@@ -41,6 +41,10 @@ header {
   margin: 4rem 0;
 }
 
+label {
+  display: none;
+}
+
 @media screen and (min-width: 600px) {
   .calculator {
     display: grid;
