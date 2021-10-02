@@ -37,12 +37,17 @@ body {
   font-family: "Space Mono", monospace;
 }
 
-header {
+nav {
   margin: 4rem 0;
 }
 
 label {
   display: none;
+}
+
+img {
+  max-width: 100%;
+  display: block;
 }
 
 @media screen and (min-width: 600px) {
