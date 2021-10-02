@@ -38,7 +38,15 @@ body {
 }
 
 nav {
-  margin: 4rem 0;
+  margin: 2rem 0;
+}
+
+h1 {
+  font-size: clamp(3rem, 5vw + 0.8rem, 4rem);
+  text-transform: uppercase;
+  line-height: 4.5rem;
+  color: hsla(183, 100%, 15%, 0.822);
+  letter-spacing: 12px;
 }
 
 label {
