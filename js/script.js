@@ -3,7 +3,7 @@
 // UI elements
 const bill = document.querySelector(".bill");
 const labelSelectTip = document.querySelectorAll(".btn");
-const customTip = document.querySelector(".tip-6");
+const customTip = document.querySelector("#custom-tip");
 const persons = document.querySelector(".select-persons");
 const billError = document.querySelector(".bill-error");
 const personError = document.querySelector(".person-error");
