@@ -101,7 +101,7 @@ img {
   background-color: var(--Strong-cyan);
 }
 
-.tips .tip-6 {
+.tips #custom-tip {
   text-align: center;
 }
 
